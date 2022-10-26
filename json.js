@@ -21,12 +21,10 @@ for(let i=0;i<obj.length;i++){
 // AGE:2
 // COMPANY:Guvi 
 
-// json.js:12 
 // NAME:Name 2
 // AGE:7
 // COMPANY:Guvi Geek 
-
-// json.js:12 
+ 
 // NAME:Name 3
 // AGE:10
 // COMPANY:Guvi Geek Networks 
@@ -42,16 +40,15 @@ obj.forEach((data)=>{
 })
 
 // forEach loop OUTPUT:
+
 // NAME:Name 1
 // AGE:2
 // COMPANY:Guvi
 
-// json.js:22 
 // NAME:Name 2
 // AGE:7
 // COMPANY:Guvi Geek
 
-// json.js:22 
 // NAME:Name 3
 // AGE:10
 // COMPANY:Guvi Geek Networks
@@ -73,17 +70,13 @@ for (index in obj){
 // AGE:2
 // COMPANY:Guvi
 
-// json.js:62 
 // NAME:Name 2
 // AGE:7
 // COMPANY:Guvi Geek
 
-// json.js:62 
 // NAME:Name 3
 // AGE:10
 // COMPANY:Guvi Geek Networks
-
-//basic.html:39 Live reload enabled.
 
 //Forof loop to iterate over the json object
 
@@ -102,14 +95,10 @@ for(let object of obj){
 // AGE:2
 // COMPANY:Guvi
 
-// json.js:91 
 // NAME:Name 2
 // AGE:7
 // COMPANY:Guvi Geek
 
-// json.js:91 
 // NAME:Name 3
 // AGE:10
 // COMPANY:Guvi Geek Networks
-
-// basic.html:39 Live reload enabled.
